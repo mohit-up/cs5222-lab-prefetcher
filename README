@@ -1,22 +1,14 @@
+CS5222 Project: Prefetcher implementation
 
-Welcome to the 2nd Data Prefetching Championship!
+This project implemented a GHB G/AC Prefetcher in the DPC-2 simulator.
 
-If you have not already done so, plase subscribe to the prefetching 
-competition mailing list by sending an empty email to:
+This project was a part of the course CS5222: Advanced Computer Architecture
+at the School of Computing, National Univeristy of Singapore
 
-dpc-2-subscribe AT yahoogroups.com
+There is a Makefile in order to make the following steps easier.
 
-You do not need to have a Yahoo email account - you only need to 
-subscribe to the mailing list. When prompted, type in a dummy 
-message to the moderator. 
-
-This mailing list will be used for any announcements regarding the 
-competition, any simulation infrastructure updates, and participants 
-may post questions or report problems.
-
-You must provide a single .c file for your prefetcher.  There are several
-example prefetchers in the example_prefetchers directory.  Refer to them
-to learn how to interface with the DPC2 Simulator.
+Following are the steps to compile the code and to run them along with different
+options to reconfigure the simulator.
 
 *
 * How to compile:
